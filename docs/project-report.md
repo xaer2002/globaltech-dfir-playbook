@@ -1,10 +1,10 @@
 Project Report - Digital Forensics and Incident Response (DFIR) Playbook
 
 Project: COSC 435 Final Project – Project 8
-Student: D'Marco Rodgers
+Student: D'Marco Rodgers, Duran Anderson 
 Instructor: Dr. Devharsh Trivedi
 Institution: Bowie State University
-Date: Autumn 2025
+Date: dec 1, 2025
 
 1. Introduction
 

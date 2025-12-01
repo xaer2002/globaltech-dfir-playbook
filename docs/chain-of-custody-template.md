@@ -2,9 +2,9 @@ Chain of Custody Template - Digital Forensics
 
 Case Name: GlobalTech Corp – Ransomware Incident
 Course: COSC 435 - Computer and Network Security
-Student: D'Marco Rodgers
+Student: D'Marco Rodgers, Duran Anderson
 Instructor: Dr. Devharsh Trivedi
-Date: Autumn 2025
+Date: dec 1, 2025
 
 1. Evidence Observation
 field description

@@ -2,9 +2,9 @@ User Manual - Ransomware DFIR Response Guide
 
 Document: User Manual
 Project: COSC 435 – DFIR Playbook
-Student: D'Marco Rodgers
+Student: D'Marco Rodgers, Duran Anderson
 Instructor: Dr. Devharsh Trivedi
-Date: Autumn 2025
+Date: dec 1, 2025
 
 1. Objective
 

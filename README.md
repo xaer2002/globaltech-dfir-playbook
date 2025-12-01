@@ -3,7 +3,7 @@ GlobalTech Ransomware DFIR Playbook
 
 Course: COSC 435 - Computer and Network Security
 Project: Final Project (Project 8)
-Student: D'Marco Rodgers
+Student: D'Marco Rodgers, Duran Anderson
 Instructor: Dr. Devharsh Trivedi
 
 overview
