@@ -1,11 +1,11 @@
 DFIR PLAYBOOK — Targeted Ransomware Attack
 
 Organization: GlobalTech Corp
-Author: D’Marqco Rodgers
+Author: D’Marqco Rodgers, Duran Anderson
 Course: COSC 435 – Computer & Network Security
 Project: Final Project – DFIR Playbook (Project 8)
 Instructor: Dr. Devharsh Trivedi
-Date: Fall 2025
+Date: dev 1, 2025
 
 1. Purpose & Scope
 
