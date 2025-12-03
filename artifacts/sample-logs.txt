@@ -1,0 +1,5 @@
+Event ID 4625 - Failed logon attempt
+Event ID 4688 - New process created: powershell.exe
+Sysmon Event 1 - Process created
+Sysmon Event 11 - File Create: C:\Users\Public\encryptor.exe
+Hash: 4a7d1ed414474e4033ac29ccb8653d9b
